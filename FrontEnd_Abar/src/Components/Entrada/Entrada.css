@@ -1,0 +1,240 @@
+body{
+    font-family: 'Montserrat';
+    
+ }
+ 
+ #title{
+    font-family: 'Montserrat';
+    background: #3A1C71;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #FFAF7B, #D76D77, #3A1C71);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #FFAF7B, #D76D77, #3A1C71); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        color:#fff;
+}
+
+h1{
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+
+
+h2{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size:3rem;
+    line-height:1.5;
+}
+
+h3{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+
+.container-fluid{
+    padding: 1.5% 15% 7%;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+    color:#fff;
+}
+
+.navbarbrand{
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-family: 'Montserrat';
+    font-weight: 200;
+}
+
+.conta-button{
+    margin: 5% 3% 5% 0%
+}
+
+.destaque-img{
+    
+    position: absolute;
+    margin-left: 7%;
+    width: 250px;
+    transform: rotate(25deg);
+    height: 250px;
+}
+@media (max-width: 600px){
+
+.title-img{
+    display: none;
+}
+
+}
+/* Media Query Breakpoint */
+@media (max-width: 1020px){
+    .destaque-img{
+        transform: rotate(0);
+        position: static;
+        text-align: center;
+    }
+
+    .title{
+        text-align: center;
+    }
+}
+
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.icons{
+    margin-bottom: 20px;
+    color:#ef8172;
+}
+
+.icons:hover{
+    color:#ff4c68;
+}
+
+.features-grid{
+    text-align: center;
+    padding: 4.3%;
+}
+
+
+/* Testmonials section */
+#sobre{
+    text-align:center;
+    background-color:#9372ef;
+    
+    color:#fff;
+  }
+
+.testimonial-img{
+    width:10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+
+
+/* contato section */
+
+#contatos{
+    background-color:#ef8172;
+    text-align: center;
+    padding:3%;
+}
+
+#contatos i svg{
+    width: 35%;
+    height: 10%;
+}
+.contatoIcon svg, .linked{
+    color: black;   
+}
+
+#contatos i svg:hover{
+    color: #1a1c20d0 !important;
+    
+}
+
+#contatos .linked svg:hover{
+    color: #0a2f94 !important;
+    
+}
+
+
+#contatos .contato-img{
+    width: 100%;
+}
+
+/* objetivo Section */
+#objetivo{
+    padding: 100px;
+    text-align: center;
+}
+
+.missao-card{
+    padding: 3% 2%;
+}
+
+
+/* Call to Action */
+#conf{
+    padding: 7% 20%;
+    color: #fff;
+    text-align: center;
+    background-color: #ff4c68; 
+}
+
+.conf-h3{
+    font-size: 3em;
+    line-height: 1.5;
+}
+.corSvg{
+    color: red;
+}
+.conf-btn{
+    margin: 5% 2%;
+}
+
+.paragrafo{
+    color: #fff;
+    font-weight: 200
+}
+
+.abar-bg img{
+    width:;
+    margin: 0 25% 0 25%;
+}
+
+/* Contato */
+
+#contato{
+    background-color: #fff;
+    padding: 5% 15% 3%;
+    text-align: center;
+    font-family: 'Montserrat';
+    color:grey;
+}
+
+.footer-p{
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.footer-icons{
+    margin: 1% 0.8%;
+}
+
+@media only screen and (max-width: 650px) and (min-width: 200px) {
+    #objetivo{
+        padding: 0px;
+    }
+     h1{
+        font-family: math;
+        font-size: 2.0rem;
+        /* font-weight: 900; */
+        line-height: 1;
+    }
+  }
+
+  @media only screen and (max-width: 912px) and (min-width: 768px) {
+ 
+}

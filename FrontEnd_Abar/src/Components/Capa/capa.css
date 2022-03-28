@@ -1,0 +1,28 @@
+.CapaSize{
+    width: 1037px;
+    height: 153;
+    position: relative;
+    z-index: 2;
+}
+
+.img-capa{
+    height: 300px;
+}
+
+@media only screen and (max-width: 650px) and (min-width: 200px) {
+    .CapaSize{
+      display: none;
+    }
+    .img-capa{
+        display: none;
+    }
+  }
+
+  @media only screen and (max-width: 912px) and (min-width: 768px) {
+    .CapaSize{
+        display: none;
+      }
+      .img-capa{
+          display: none;
+      }
+}

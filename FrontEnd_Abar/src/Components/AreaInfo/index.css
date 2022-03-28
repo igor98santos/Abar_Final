@@ -1,0 +1,11 @@
+svg:hover {
+    color: #2e7bb4;
+    width: 45px;
+    transform: rotate(-30deg)!important;
+    transition: 0.5s;
+  }
+
+  .infoX{
+      border-radius: 30px;
+
+  }

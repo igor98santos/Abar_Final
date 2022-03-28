@@ -1,0 +1,16 @@
+.card-body a{
+  margin-bottom: 20px;
+  color: black;
+}
+.alinha {
+  margin: 5% 25% 0 25%;
+}
+
+.editPOst {
+  transform: translateY(-43px);
+  margin-right: 16px;
+}
+
+.zPostagem{
+  margin: 4% 25% 0 25%;
+}
