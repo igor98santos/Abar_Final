@@ -3,8 +3,8 @@
 <p>Projeto solução de site voltado ao tema lbtqia+,buscando meios de usar a tecnologia como vetor de transformação do Eu, do Nós, e do Todos Nós, ao tentarmos solucionar um problema/dificuldade de um grupo específico da sociedade.</p>
 </br>
 
-<h1>Link da aplicação:https://abar-frontend.vercel.app/</h1>
-
+<h1>Link do pitch da apresentação:</h1>
+https://www.youtube.com/watch?v=FZVvtfOqOEM
 <h1>Objetivo</h1>
 </hr>
 <p>Nosso objetivo é de conseguirmos impactar, positivamente, a vida do publico lbtqia+, ao oferecemos essa ferramente de comunicação para o publico </p>
